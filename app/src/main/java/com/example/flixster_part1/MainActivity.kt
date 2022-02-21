@@ -16,7 +16,6 @@ class MainActivity : AppCompatActivity() {
 
     private val movies = mutableListOf<Movie>()
     private lateinit var rvMovies: RecyclerView
-
     /*
     * 1. Define a data model class as the data source - Movie
     * 2. Add the RecyclerView to the layout - activity_main.xml
