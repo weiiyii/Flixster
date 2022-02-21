@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-![list of movies](./walkthrus/listOfMovie.gif)  
+![list of movies](./walkthrus/listOfMovies.gif)  
 
 ## License
 
