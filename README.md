@@ -1,6 +1,6 @@
 # Flixster
 
-**Flixster** is a Flister android app clone.
+**Flixster** is a Flixster android app clone.
 
 Submitted by: **Weiyi Chen**
 
