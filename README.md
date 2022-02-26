@@ -12,6 +12,8 @@ The following **required** functionality is completed:
 
 * [ ] User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
 * [ ] Views are responsive for both landscape/portrait mode.
+* [ ] Expose details of movie (ratings using RatingBar, popularity, and synopsis) in a separate activity.
+* [ ] Allow video posts to be played in full-screen using the YouTubePlayerView
 
 ## Video Walkthrough
 
@@ -20,6 +22,8 @@ Here's a walkthrough of implemented user stories:
 ![list of movies](./walkthrus/listOfMovies.gif)
 
 ![list of movies in landscape mode](./walkthrus/listOfMoviesLandscape.gif) 
+
+![movie detail in a seperate activity](./walkthrus/movieDetail.gif)
 
 ## License
 
